@@ -1,15 +1,14 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9a6,100:0d1117&height=200&section=header&text=Pragati%20Gupta&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Robotics%20%7C%20AI%20%7C%20Open%20Source&descAlignY=58&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:b044ff,100:0d1117&height=200&section=header&text=Pragati%20Gupta&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Robotics%20%7C%20AI%20%7C%20Open%20Source&descAlignY=58&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9A6&center=true&vCenter=true&width=600&lines=Robotics+%26+AI+Engineer+%F0%9F%A4%96;Open+Source+Contributor+%40+JdeRobot;Building+intelligent+systems+%F0%9F%9A%80;B.E.+DSCE+%7C+CGPA+9.4+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=B044FF&center=true&vCenter=true&width=600&lines=Robotics+%26+AI+Engineer+%F0%9F%A4%96;Open+Source+Contributor+%40+JdeRobot;Building+intelligent+systems+%F0%9F%9A%80;B.E.+DSCE+%7C+CGPA+9.4+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pragati%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pragati%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragati-gupta01/)
 [![Gmail](https://img.shields.io/badge/Gmail-guptapragati291-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guptapragati291@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9A6?style=for-the-badge&logo=vercel&logoColor=black)](https://YOUR_PORTFOLIO_URL)
-[![Profile Views](https://komarev.com/ghpvc/?username=PragatiGHub&label=Profile+Views&color=00d9a6&style=for-the-badge)](https://github.com/PragatiGHub)
+[![Profile Views](https://komarev.com/ghpvc/?username=PragatiGHub&label=Profile+Views&color=b044ff&style=for-the-badge)](https://github.com/PragatiGHub)
 
 </div>
 
@@ -42,7 +41,7 @@ fun_fact   : I debug robots for fun 🤖
 
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-FF6600?style=for-the-badge&logoColor=white)
-![Nav2](https://img.shields.io/badge/Nav2-00D9A6?style=for-the-badge&logoColor=black)
+![Nav2](https://img.shields.io/badge/Nav2-b044ff?style=for-the-badge&logoColor=white)
 ![ros2_control](https://img.shields.io/badge/ros2__control-4B4B4B?style=for-the-badge)
 
 **AI / ML**
@@ -75,7 +74,7 @@ fun_fact   : I debug robots for fun 🤖
 | **SpectrumSense** | Multimodal autism detection — DistilBERT + ResNet-18 fusion | PyTorch · HuggingFace |
 | **LEAKSHIELD** | AI-powered dark web threat intelligence with BERT clustering | FastAPI · React · OSINT |
 | **JdeRobot PRs** | 3 merged contributions to RoboticsAcademy | ROS2 · Docker · Python |
-| **Portfolio** | Dark/cyan dev portfolio with Framer Motion | Next.js 14 · Tailwind |
+| **Portfolio** | Dark/purple dev portfolio with Framer Motion | Next.js 14 · Tailwind |
 
 </div>
 
@@ -85,14 +84,14 @@ fun_fact   : I debug robots for fun 🤖
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PragatiGHub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9a6&icon_color=00d9a6&text_color=c9d1d9&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PragatiGHub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9a6&text_color=c9d1d9&langs_count=6" width="41%" />
+<img src="https://github-readme-stats.vercel.app/api?username=PragatiGHub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=b044ff&icon_color=ff6ec7&text_color=c9d1d9&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PragatiGHub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=b044ff&text_color=c9d1d9&langs_count=6" width="41%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=PragatiGHub&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00d9a6&fire=00d9a6&currStreakLabel=00d9a6" width="60%" />
+<img src="https://streak-stats.demolab.com?user=PragatiGHub&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=b044ff&fire=ff6ec7&currStreakLabel=b044ff" width="60%" />
 
 </div>
 
@@ -102,7 +101,7 @@ fun_fact   : I debug robots for fun 🤖
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PragatiGHub&bg_color=0d1117&color=00d9a6&line=00d9a6&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Pragati's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PragatiGHub&bg_color=0d1117&color=b044ff&line=ff6ec7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -136,7 +135,7 @@ fun_fact   : I debug robots for fun 🤖
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9a6,100:0d1117&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:b044ff,100:0d1117&height=100&section=footer)
 
 *"First, solve the problem. Then, write the code."*
 
